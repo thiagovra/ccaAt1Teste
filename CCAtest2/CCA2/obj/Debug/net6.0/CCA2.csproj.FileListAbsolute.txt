@@ -1,0 +1,15 @@
+C:\Users\thiag\Documents\Projects\c#\CCA2\CCA2\bin\Debug\net6.0\CCA2.exe
+C:\Users\thiag\Documents\Projects\c#\CCA2\CCA2\bin\Debug\net6.0\CCA2.deps.json
+C:\Users\thiag\Documents\Projects\c#\CCA2\CCA2\bin\Debug\net6.0\CCA2.runtimeconfig.json
+C:\Users\thiag\Documents\Projects\c#\CCA2\CCA2\bin\Debug\net6.0\CCA2.dll
+C:\Users\thiag\Documents\Projects\c#\CCA2\CCA2\bin\Debug\net6.0\ref\CCA2.dll
+C:\Users\thiag\Documents\Projects\c#\CCA2\CCA2\bin\Debug\net6.0\CCA2.pdb
+C:\Users\thiag\Documents\Projects\c#\CCA2\CCA2\obj\Debug\net6.0\CCA2.csproj.AssemblyReference.cache
+C:\Users\thiag\Documents\Projects\c#\CCA2\CCA2\obj\Debug\net6.0\CCA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Documents\Projects\c#\CCA2\CCA2\obj\Debug\net6.0\CCA2.AssemblyInfoInputs.cache
+C:\Users\thiag\Documents\Projects\c#\CCA2\CCA2\obj\Debug\net6.0\CCA2.AssemblyInfo.cs
+C:\Users\thiag\Documents\Projects\c#\CCA2\CCA2\obj\Debug\net6.0\CCA2.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\Projects\c#\CCA2\CCA2\obj\Debug\net6.0\CCA2.dll
+C:\Users\thiag\Documents\Projects\c#\CCA2\CCA2\obj\Debug\net6.0\ref\CCA2.dll
+C:\Users\thiag\Documents\Projects\c#\CCA2\CCA2\obj\Debug\net6.0\CCA2.pdb
+C:\Users\thiag\Documents\Projects\c#\CCA2\CCA2\obj\Debug\net6.0\CCA2.genruntimeconfig.cache

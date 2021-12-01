@@ -1,0 +1,14 @@
+C:\Users\thiag\Documents\Projects\c#\CCA3\CCA3\bin\Debug\net6.0\CCA3.exe
+C:\Users\thiag\Documents\Projects\c#\CCA3\CCA3\bin\Debug\net6.0\CCA3.deps.json
+C:\Users\thiag\Documents\Projects\c#\CCA3\CCA3\bin\Debug\net6.0\CCA3.runtimeconfig.json
+C:\Users\thiag\Documents\Projects\c#\CCA3\CCA3\bin\Debug\net6.0\CCA3.dll
+C:\Users\thiag\Documents\Projects\c#\CCA3\CCA3\bin\Debug\net6.0\ref\CCA3.dll
+C:\Users\thiag\Documents\Projects\c#\CCA3\CCA3\bin\Debug\net6.0\CCA3.pdb
+C:\Users\thiag\Documents\Projects\c#\CCA3\CCA3\obj\Debug\net6.0\CCA3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Documents\Projects\c#\CCA3\CCA3\obj\Debug\net6.0\CCA3.AssemblyInfoInputs.cache
+C:\Users\thiag\Documents\Projects\c#\CCA3\CCA3\obj\Debug\net6.0\CCA3.AssemblyInfo.cs
+C:\Users\thiag\Documents\Projects\c#\CCA3\CCA3\obj\Debug\net6.0\CCA3.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\Projects\c#\CCA3\CCA3\obj\Debug\net6.0\CCA3.dll
+C:\Users\thiag\Documents\Projects\c#\CCA3\CCA3\obj\Debug\net6.0\ref\CCA3.dll
+C:\Users\thiag\Documents\Projects\c#\CCA3\CCA3\obj\Debug\net6.0\CCA3.pdb
+C:\Users\thiag\Documents\Projects\c#\CCA3\CCA3\obj\Debug\net6.0\CCA3.genruntimeconfig.cache
