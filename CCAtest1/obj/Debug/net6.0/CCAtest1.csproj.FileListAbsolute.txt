@@ -1,0 +1,15 @@
+C:\Users\thiag\Documents\Projects\c#\CCAtest1\CCAtest1\obj\Debug\net6.0\CCAtest1.csproj.AssemblyReference.cache
+C:\Users\thiag\Documents\Projects\c#\CCAtest1\CCAtest1\obj\Debug\net6.0\CCAtest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Documents\Projects\c#\CCAtest1\CCAtest1\obj\Debug\net6.0\CCAtest1.AssemblyInfoInputs.cache
+C:\Users\thiag\Documents\Projects\c#\CCAtest1\CCAtest1\obj\Debug\net6.0\CCAtest1.AssemblyInfo.cs
+C:\Users\thiag\Documents\Projects\c#\CCAtest1\CCAtest1\obj\Debug\net6.0\CCAtest1.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\Projects\c#\CCAtest1\CCAtest1\bin\Debug\net6.0\CCAtest1.exe
+C:\Users\thiag\Documents\Projects\c#\CCAtest1\CCAtest1\bin\Debug\net6.0\CCAtest1.deps.json
+C:\Users\thiag\Documents\Projects\c#\CCAtest1\CCAtest1\bin\Debug\net6.0\CCAtest1.runtimeconfig.json
+C:\Users\thiag\Documents\Projects\c#\CCAtest1\CCAtest1\bin\Debug\net6.0\CCAtest1.dll
+C:\Users\thiag\Documents\Projects\c#\CCAtest1\CCAtest1\bin\Debug\net6.0\ref\CCAtest1.dll
+C:\Users\thiag\Documents\Projects\c#\CCAtest1\CCAtest1\bin\Debug\net6.0\CCAtest1.pdb
+C:\Users\thiag\Documents\Projects\c#\CCAtest1\CCAtest1\obj\Debug\net6.0\CCAtest1.dll
+C:\Users\thiag\Documents\Projects\c#\CCAtest1\CCAtest1\obj\Debug\net6.0\ref\CCAtest1.dll
+C:\Users\thiag\Documents\Projects\c#\CCAtest1\CCAtest1\obj\Debug\net6.0\CCAtest1.pdb
+C:\Users\thiag\Documents\Projects\c#\CCAtest1\CCAtest1\obj\Debug\net6.0\CCAtest1.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CCAtest1/1.0.0": {
+        "runtime": {
+          "CCAtest1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CCAtest1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
